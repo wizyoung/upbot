@@ -1,22 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: wizyoung # Your GitHub organization or username, where this repository lives
+repo: upbot # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: NPS Relay
+    url: https://nps.dogcraft.xyz
+  - name: MPlex
+    url: https://mplex.dogcraft.xyz
+  - name: MCloud
+    url: https://mcloud.dogcraft.xyz
+  - name: Code Server
+    url: https://code.dogcraft.xyz
+  - name: WebSSH
+    url: https://ssh.dogcraft.xyz
+  - name: Whoogle
+    url: https://so.dogcraft.xyz
+  - name: Nav Page
+    url: https://nav.dogcraft.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upbot
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
