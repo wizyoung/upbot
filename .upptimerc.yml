@@ -7,7 +7,7 @@ sites:
     url: https://relay.dogcraft.xyz
   - name: MPlex
     url: https://mplex.dogcraft.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: MCloud
     url: https://mcloud.dogcraft.xyz
   - name: Code Server
