@@ -6,7 +6,7 @@ sites:
   - name: NPS Relay
     url: https://relay.dogcraft.xyz
   - name: MPlex
-    url: https://mplex.dogcraft.xyz
+    url: https://mplex.dogcraft.xyz/web/index.html#!/
     maxResponseTime: 15000
   - name: MCloud
     url: https://mcloud.dogcraft.xyz
