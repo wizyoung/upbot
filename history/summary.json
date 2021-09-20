@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/mplex.dogcraft.xyz",
     "slug": "m-plex",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 703,
     "timeDay": 703,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2021-09-20": 32
+      "2021-09-20": 46
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://code.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/code.dogcraft.xyz",
     "slug": "code-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 896,
-    "timeWeek": 896,
-    "timeMonth": 896,
-    "timeYear": 896,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 873,
+    "timeDay": 873,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
+    "dailyMinutesDown": {
+      "2021-09-20": 0
+    }
   },
   {
     "name": "WebSSH",
