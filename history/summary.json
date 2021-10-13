@@ -4,19 +4,19 @@
     "url": "https://relay.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/relay.dogcraft.xyz",
     "slug": "nps-relay",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 786,
-    "timeDay": 905,
-    "timeWeek": 768,
-    "timeMonth": 786,
-    "timeYear": 786,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 788,
+    "timeDay": 875,
+    "timeWeek": 777,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {
-      "2021-10-13": 3
+      "2021-10-13": 19
     }
   },
   {
