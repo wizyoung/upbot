@@ -24,18 +24,19 @@
     "url": "https://mplex.dogcraft.xyz/web/index.html#!/",
     "icon": "https://favicons.githubusercontent.com/mplex.dogcraft.xyz",
     "slug": "m-plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.83%",
-    "time": 739,
-    "timeDay": 581,
-    "timeWeek": 723,
-    "timeMonth": 722,
-    "timeYear": 739,
+    "time": 737,
+    "timeDay": 575,
+    "timeWeek": 710,
+    "timeMonth": 719,
+    "timeYear": 737,
     "dailyMinutesDown": {
+      "2021-11-16": 3,
       "2021-10-27": 90,
       "2021-09-20": 48
     }
@@ -45,11 +46,11 @@
     "url": "https://mcloud.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/mcloud.dogcraft.xyz",
     "slug": "m-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.89%",
     "time": 684,
     "timeDay": 665,
@@ -57,6 +58,7 @@
     "timeMonth": 670,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2021-11-16": 2,
       "2021-10-27": 90
     }
   },
@@ -65,9 +67,9 @@
     "url": "https://code.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/code.dogcraft.xyz",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.89%",
@@ -77,6 +79,7 @@
     "timeMonth": 835,
     "timeYear": 880,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-10-27": 90
     }
   },
