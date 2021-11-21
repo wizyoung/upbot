@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 780,
-    "timeDay": 934,
-    "timeWeek": 780,
-    "timeMonth": 766,
-    "timeYear": 780,
+    "time": 779,
+    "timeDay": 742,
+    "timeWeek": 765,
+    "timeMonth": 768,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2021-10-13": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/mplex.dogcraft.xyz",
     "slug": "m-plex",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.84%",
-    "time": 728,
-    "timeDay": 548,
-    "timeWeek": 643,
-    "timeMonth": 700,
-    "timeYear": 728,
+    "uptimeYear": "99.85%",
+    "time": 727,
+    "timeDay": 675,
+    "timeWeek": 625,
+    "timeMonth": 701,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2021-10-27": 90,
       "2021-09-20": 48
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.90%",
-    "time": 674,
-    "timeDay": 538,
-    "timeWeek": 613,
-    "timeMonth": 649,
-    "timeYear": 674,
+    "time": 673,
+    "timeDay": 561,
+    "timeWeek": 583,
+    "timeMonth": 646,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2021-10-27": 90
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.90%",
-    "time": 874,
-    "timeDay": 716,
-    "timeWeek": 859,
+    "time": 873,
+    "timeDay": 756,
+    "timeWeek": 833,
     "timeMonth": 827,
-    "timeYear": 874,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-10-27": 90
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 473,
-    "timeWeek": 574,
+    "time": 591,
+    "timeDay": 516,
+    "timeWeek": 554,
     "timeMonth": 579,
-    "timeYear": 593,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 686,
-    "timeWeek": 796,
-    "timeMonth": 835,
-    "timeYear": 859,
+    "time": 858,
+    "timeDay": 774,
+    "timeWeek": 766,
+    "timeMonth": 836,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 838,
-    "timeWeek": 956,
+    "time": 1021,
+    "timeDay": 934,
+    "timeWeek": 918,
     "timeMonth": 998,
-    "timeYear": 1022,
+    "timeYear": 1021,
     "dailyMinutesDown": {}
   }
 ]
