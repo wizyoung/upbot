@@ -4,11 +4,11 @@
     "url": "https://relay.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/relay.dogcraft.xyz",
     "slug": "nps-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 795,
     "timeDay": 711,
@@ -16,6 +16,7 @@
     "timeMonth": 819,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2021-12-11": 3,
       "2021-10-13": 19
     }
   },
@@ -24,19 +25,19 @@
     "url": "https://mplex.dogcraft.xyz/web/index.html#!/",
     "icon": "https://favicons.githubusercontent.com/mplex.dogcraft.xyz",
     "slug": "m-plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 762,
     "timeDay": 866,
     "timeWeek": 1023,
-    "timeMonth": 805,
+    "timeMonth": 809,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2021-12-11": 6,
+      "2021-12-11": 3,
       "2021-11-22": 16,
       "2021-10-27": 90,
       "2021-09-20": 48
@@ -47,18 +48,19 @@
     "url": "https://mcloud.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/mcloud.dogcraft.xyz",
     "slug": "m-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 696,
-    "timeDay": 906,
+    "timeDay": 732,
     "timeWeek": 887,
-    "timeMonth": 719,
+    "timeMonth": 722,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2021-12-11": 2,
       "2021-11-22": 16,
       "2021-10-27": 90
     }
@@ -68,18 +70,19 @@
     "url": "https://code.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/code.dogcraft.xyz",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 910,
-    "timeDay": 960,
+    "timeDay": 1134,
     "timeWeek": 1120,
-    "timeMonth": 963,
+    "timeMonth": 983,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2021-12-11": 2,
       "2021-11-22": 16,
       "2021-10-27": 90
     }
@@ -89,10 +92,10 @@
     "url": "https://ssh.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/ssh.dogcraft.xyz",
     "slug": "web-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
@@ -100,34 +103,38 @@
     "timeWeek": 769,
     "timeMonth": 654,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 1
+    }
   },
   {
     "name": "Whoogle",
     "url": "https://so.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/so.dogcraft.xyz",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 951,
-    "timeDay": 1581,
+    "timeDay": 1053,
     "timeWeek": 1644,
     "timeMonth": 1103,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 1
+    }
   },
   {
     "name": "Nav Page",
     "url": "https://nav.dogcraft.xyz",
     "icon": "https://favicons.githubusercontent.com/nav.dogcraft.xyz",
     "slug": "nav-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,6 +143,8 @@
     "timeWeek": 1535,
     "timeMonth": 1182,
     "timeYear": 1086,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 0
+    }
   }
 ]
