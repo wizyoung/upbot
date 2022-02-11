@@ -1,7 +1,7 @@
 url: https://mcloud.dogcraft.xyz
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2022-02-10T23:20:12.246Z
+status: down
+code: 502
+responseTime: 644
+lastUpdated: 2022-02-11T12:59:14.281Z
 startTime: Mon Sep 20 2021 05:30:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
